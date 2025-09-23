@@ -180,15 +180,15 @@
 ## ✅ Progress Tracker (Manual — For Now)
 
 ```markdown
-- [ ] 01 Core Concepts
-- [ ] 02 React Hooks
-- [ ] 03 State Management
-- [ ] 04 Routing
-- [ ] 05 Advanced Patterns
-- [ ] 06 Data Fetching
-- [ ] 07 Styling
-- [ ] 08 Testing
-- [ ] 09 Ecosystem
+- [✅] 01 Core Concepts
+- [✅] 02 React Hooks
+- [✅] 03 State Management
+- [✅] 04 Routing
+- [✅] 05 Advanced Patterns
+- [✅] 06 Data Fetching
+- [✅] 07 Styling
+- [✅] 08 Testing
+- [✅] 09 Ecosystem
 ```
 
 ---
